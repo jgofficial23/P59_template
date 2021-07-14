@@ -83,8 +83,7 @@ h2{
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
-/*9. Use inline-block display property below*/
-  
+  display:inline-block;
   font-size: 16px;
 }
 a
